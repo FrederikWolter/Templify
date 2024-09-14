@@ -32,157 +32,227 @@
      height="200"
      x="5"
      y="5" />
-  <!-- Title Area 200x 165y - 292x 205y  -->
+  <!-- Title Area 200x 170.5y - 292x 205y -->
   <rect
      style="display:inline;fill:none;stroke:#000000;stroke-width:0.35;stroke-opacity:1"
      id="rect200"
      width="92"
-     height="40"
+     height="34.5"
      x="200"
-     y="165" />
-  <path
-     id="path200"
-     d="M 200,193.5 H 292"
-     fill="none"
-     stroke="#000000"
-     stroke-width="0.35" />
-  <path
-     id="path250"
-     d="M 230,165 V 205"
-     fill="none"
-     stroke="#000000"
-     stroke-width="0.35" />
-  <path
-     id="path251"
-     d="M 280,193.5 V 205"
-     fill="none"
-     stroke="#000000"
-     stroke-width="0.35" />
+     y="170.5" />
+  <!-- Row 1 -->
   <text
-     x="265"
-     y="196"
-     id="textSheet1"
-     font-size="2.2px"
-     font-family="'Trebuchet MS'"><tspan
-       id="tspanSheet1">SHEET</tspan></text>
-  <text
-     x="265"
-     y="201"
-     id="textSheet2"
-     font-size="3.75px"
-     font-family="'Trebuchet MS'"
-     freecad:autofill="sheet"
-     freecad:editable="sheet"><tspan
-       id="tspanSheet2">Sheet</tspan></text>
-  <text
-     x="235.5"
-     y="196"
-     id="textDrawing1"
-     font-size="2.2px"
-     font-family="'Trebuchet MS'"><tspan
-       id="tspanDrawing1">DRAWING</tspan></text>
-  <text
-     x="235.5"
-     y="201.5"
-     id="textDrawing2"
-     font-size="3.75px"
-     font-family="'Trebuchet MS'"
-     freecad:editable="drawing"><tspan
-       id="tspanDrawing2">Drawing Num</tspan></text>
-  <text
-     x="202"
-     y="196"
-     id="textScale1"
-     font-size="2.2px"
-     font-family="'Trebuchet MS'"><tspan
-       id="tspanScale1">SCALE</tspan></text>
-  <text
-     x="202"
-     y="201.5"
-     id="textScale2"
-     font-size="3.75px"
-     font-family="'Trebuchet MS'"
-     freecad:autofill="scale"
-     freecad:editable="scale"><tspan
-       id="tspanScale2">Scale</tspan></text>
-  <text
-     x="216.5"
-     y="196"
-     id="textWeight1"
-     font-size="2.2px"
-     font-family="'Trebuchet MS'"><tspan
-       id="tspanWeight1">WEIGHT</tspan></text>
-  <text
-     x="216.5"
-     y="201.5"
-     id="textWeight2"
-     font-size="3.75px"
-     font-family="'Trebuchet MS'"
-     freecad:editable="weight"><tspan
-       id="tspanWeight2">Weight</tspan></text>
-  <text
-     x="201.5"
-     y="168"
-     id="textAuthor1"
-     font-size="2.2px"
-     font-family="'Trebuchet MS'"><tspan
-       id="tspanAuthor1">AUTHOR</tspan></text>
-  <text
-     x="201.5"
-     y="171"
-     id="textAuthor2"
-     font-size="3.75px"
-     font-family="'Trebuchet MS'"
-     freecad:autofill="author"
-     freecad:editable="author"><tspan
-       id="tspanAuthor2">Designed by Name</tspan></text>
-  <text
-     x="201.5"
-     y="174.5"
-     id="textDate1"
-     font-size="2.2px"
-     font-family="'Trebuchet MS'"><tspan
-       id="tspanDate1">DATE</tspan></text>
-  <text
-     x="201.5"
-     y="178.5"
-     id="textDate2"
-     font-size="3.75px"
-     font-family="'Trebuchet MS'"
-     freecad:autofill="date"
-     freecad:editable="date"><tspan
-       id="tspanDate2">Date</tspan></text>
-  <text
-     x="201.5"
-     y="184.5"
-     id="textSize1"
-     font-size="2.2px"
-     font-family="'Trebuchet MS'"><tspan
-       id="tspanSize1">SIZE</tspan></text>
-  <text
-     x="201.5"
-     y="187.5"
-     id="textSize2"
-     font-size="3.75px"
-     font-family="'Trebuchet MS'"><tspan
-       id="tspanSize2">A4</tspan></text>
-  <text
-     x="232"
-     y="171"
+     x="201"
+     y="176.5"
      id="textTitle1"
-     font-size="5px"
+     font-size="6px"
      font-family="'Trebuchet MS'"
      freecad:autofill="title"
      freecad:editable="title"><tspan
        id="tspanTitle1">Title of File Text</tspan></text>
   <text
-     x="232"
-     y="179"
+     x="201"
+     y="180.5"
      id="textSubtitle1"
      font-size="4px"
      font-family="'Trebuchet MS'"
      freecad:editable="subtitle"><tspan
        id="tspanSubtitle1">Subtitle of File free Text</tspan></text>
+  <path
+     id="path210"
+     d="M 200,182 H 292"
+     fill="none"
+     stroke="#000000"
+     stroke-width="0.25" />
+  <!-- Row 2 -->
+  <text
+     x="200.75"
+     y="184.5"
+     id="textAuthor1"
+     font-size="2.2px"
+     font-family="'Trebuchet MS'"
+     xml:space="default"><tspan
+       id="tspanAuthor1">AUTHOR</tspan></text>
+  <text
+     x="201"
+     y="189.5"
+     id="textAuthor2"
+     font-size="3.75px"
+     font-family="'Trebuchet MS'"
+     freecad:autofill="author"
+     freecad:editable="author"
+     xml:space="default"><tspan
+       id="tspanAuthor2">Designed by Name</tspan></text>
+  <path
+     id="path221"
+     d="M 238,182 V 193.5"
+     fill="none"
+     stroke="#000000"
+     stroke-width="0.25" />
+  <text
+     x="238.75"
+     y="184.5"
+     id="textDate1"
+     font-size="2.2px"
+     font-family="'Trebuchet MS'"
+     xml:space="default"><tspan
+       id="tspanDate1">DATE</tspan></text>
+  <text
+     x="239"
+     y="189.5"
+     id="textDate2"
+     font-size="3.75px"
+     font-family="'Trebuchet MS'"
+     freecad:autofill="date"
+     freecad:editable="date"
+     xml:space="default"><tspan
+       id="tspanDate2">Date</tspan></text>
+  <path
+     id="path222"
+     d="M 262,182 V 193.5"
+     fill="none"
+     stroke="#000000"
+     stroke-width="0.25" />
+  <text
+     x="262.75"
+     y="184.5"
+     id="textVersion1"
+     font-size="2.2px"
+     font-family="'Trebuchet MS'"
+     xml:space="default"><tspan
+       id="tspanVersion1">VERSION</tspan></text>
+  <text
+     x="263"
+     y="189.5"
+     id="textVersion2"
+     font-size="3.75px"
+     font-family="'Trebuchet MS'"
+     xml:space="default"
+     freecad:editable="version"><tspan
+       id="tspanVersion2">Version</tspan></text>
+  <path
+     id="path223"
+     d="M 280,182 V 193.5"
+     fill="none"
+     stroke="#000000"
+     stroke-width="0.25" />
+  <text
+     x="280.75"
+     y="184.5"
+     id="textSize1"
+     font-size="2.2px"
+     font-family="'Trebuchet MS'"
+     xml:space="default"><tspan
+       id="tspanSize1">SIZE</tspan></text>
+  <text
+     y="189.5"
+     id="textSize2"
+     font-size="3.75px"
+     font-family="'Trebuchet MS'"
+     x="281"
+     xml:space="default"><tspan
+       id="tspanSize2">A4LD</tspan></text>
+  <path
+     id="path220"
+     d="M 200,193.5 H 292"
+     fill="none"
+     stroke="#000000"
+     stroke-width="0.25" />
+  <!-- Row 3 -->
+  <text
+     x="200.75"
+     y="196"
+     id="textScale1"
+     font-size="2.2px"
+     font-family="'Trebuchet MS'"
+     xml:space="default"><tspan
+       id="tspanScale1">SCALE</tspan></text>
+  <text
+     x="201"
+     y="201.5"
+     id="textScale2"
+     font-size="3.75px"
+     font-family="'Trebuchet MS'"
+     freecad:autofill="scale"
+     freecad:editable="scale"
+     xml:space="default"><tspan
+       id="tspanScale2">Scale</tspan></text>
+  <path
+     id="path231"
+     d="M 219,193.5 V 205"
+     fill="none"
+     stroke="#000000"
+     stroke-width="0.25" />
+  <text
+     x="220"
+     y="196"
+     id="textWeight1"
+     font-size="2.2px"
+     font-family="'Trebuchet MS'"
+     xml:space="default"><tspan
+       id="tspanWeight1">WEIGHT</tspan></text>
+  <text
+     x="220.25"
+     y="201.5"
+     id="textWeight2"
+     font-size="3.75px"
+     font-family="'Trebuchet MS'"
+     freecad:editable="weight"
+     xml:space="default"><tspan
+       id="tspanWeight2">Weight</tspan></text>
+  <path
+     id="path232"
+     d="M 238,193.5 V 205"
+     fill="none"
+     stroke="#000000"
+     stroke-width="0.25" />
+  <text
+     x="238.75"
+     y="196"
+     id="textDrawing1"
+     font-size="2.2px"
+     font-family="'Trebuchet MS'"
+     xml:space="default"><tspan
+       id="tspanDrawing1">DRAWING</tspan></text>
+  <text
+     x="239"
+     y="201.5"
+     id="textDrawing2"
+     font-size="3.75px"
+     font-family="'Trebuchet MS'"
+     freecad:editable="drawing"
+     xml:space="default"><tspan
+       id="tspanDrawing2">Drawing Num</tspan></text>
+  <path
+     id="path233"
+     d="M 262,193.5 V 205"
+     fill="none"
+     stroke="#000000"
+     stroke-width="0.25" />
+  <text
+     x="262.75"
+     y="196"
+     id="textSheet1"
+     font-size="2.2px"
+     font-family="'Trebuchet MS'"
+     xml:space="default"><tspan
+       id="tspanSheet1">SHEET</tspan></text>
+  <text
+     x="263"
+     y="201.5"
+     id="textSheet2"
+     font-size="3.75px"
+     font-family="'Trebuchet MS'"
+     freecad:autofill="sheet"
+     freecad:editable="sheet"
+     xml:space="default"><tspan
+       id="tspanSheet2">Sheet</tspan></text>
+  <path
+     id="path234"
+     d="M 280,193.5 V 205"
+     fill="none"
+     stroke="#000000"
+     stroke-width="0.25" />
   <g
      id="gIcon1"
      transform="matrix(0.16,0,0,0.16,315.5,193.5)"
