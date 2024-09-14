@@ -16,14 +16,7 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:freecad="https://www.freecad.org/wiki/index.php?title=Svg_Namespace">
   <defs
-     id="defs1">
-    <rect
-       x="642.05295"
-       y="313.95541"
-       width="110.30866"
-       height="31.112698"
-       id="rect11" />
-  </defs>
+     id="defs1" />
   <sodipodi:namedview
      id="namedview1"
      pagecolor="#ffffff"
@@ -70,6 +63,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
