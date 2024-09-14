@@ -1,6 +1,9 @@
 # Templify
 FreeCAD Custom Templates for Technical Drawing Workbench.
 
+## Templates
+### A4_Landscape_Default
+
 ## Sources
 - [TechDraw Templates](https://wiki.freecad.org/TechDraw_Templates)
 - [TechDraw TemplateHowTo](https://wiki.freecad.org/TechDraw_TemplateHowTo)
